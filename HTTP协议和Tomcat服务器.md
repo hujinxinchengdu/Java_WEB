@@ -107,12 +107,18 @@
 
 ![](img/idea14.jpg)
 
-  VM options填写内容：-Xms128m -Xmx256m -XX:PermSize=128m -XX:MaxPermSize=256m
-    -vmargs 说明后面是VM的参数，所以后面的其实都是JVM的参数了
-    -Xms128m JVM初始分配的堆内存
-    -Xmx512m JVM最大允许分配的堆内存，按需分配
-    -XX:PermSize=64M JVM初始分配的非堆内存
-    -XX:MaxPermSize=128M JVM最大允许分配的非堆内存，按需分配
+  VM options填写内容：
+  -Xms128m -Xmx256m -XX:PermSize=128m -XX:MaxPermSize=256m
+    
+   -vmargs 说明后面是VM的参数，所以后面的其实都是JVM的参数了
+    
+   -Xms128m JVM初始分配的堆内存
+    
+   -Xmx512m JVM最大允许分配的堆内存，按需分配
+   
+   -XX:PermSize=64M JVM初始分配的非堆内存
+   
+   -XX:MaxPermSize=128M JVM最大允许分配的非堆内存，按需分配
 
 
 
