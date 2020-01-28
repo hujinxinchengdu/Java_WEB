@@ -56,57 +56,56 @@
 
 ​    页面的正文部分
 
-![](\\img\http_响应.jpg)
-
+![](img/http_响应.jpg)
 
 
 ## Tomcat软件的目录结构
 
-![](img\tomcat目录结构.jpg)
+![](img/tomcat目录结构.jpg)
 
 
 
 ## IDEA绑定Tomcat
 
-![](img\idea1.jpg)
+![](img/idea1.jpg)
 
-![](img\idea2.jpg)
+![](img/idea2.jpg)
 
-![](img\idea3.jpg)
+![](img/idea3.jpg)
 
-![](img\idea4.jpg)
+![](img/idea4.jpg)
 
-![](img\idea5.jpg)
+![](img/idea5.jpg)
 
 
 
 ## IDEA创建WEB项目
 
-![](img\idea6.jpg)
+![](img/idea6.jpg)
 
-![](img\idea7.jpg)
+![](img/idea7.jpg)
 
 
 
 ## WEB项目发布到Tomcat
 
-![](img\idea8.jpg)
+![](img/idea8.jpg)
 
-![](img\idea9.jpg)
+![](img/idea9.jpg)
 
-![](img\idea10.jpg)
+![](img/idea10.jpg)
 
-![](img\idea11.jpg)
+![](img/idea11.jpg)
 
-![](img\idea12.jpg)
+![](img/idea12.jpg)
 
-![](img\idea13.jpg)
+![](img/idea13.jpg)
 
 
 
 ## Tomcat中的项目结构
 
-![](img\idea14.jpg)
+![](img/idea14.jpg)
 
 
 
